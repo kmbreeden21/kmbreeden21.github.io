@@ -11,35 +11,46 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Psychology, University of Wisconsin - Madison (current)
+* M.S. in Data Science in Artificial Intelligence, Northwestern University, 2021
+* B.S. in Computational Cognitive Science, University of Michigan, 2018
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2021 - June 2023: Data Scientist
+  * TTEC Digital
+  * Duties included: Developing machine learning solutions to marketing analytics questions, performing emotion classification analyses on customer review text data, and presenting analyses and results to clients. 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2021: Data Scientist
+  * Auction Forecast
+  * Duties included: Timeseries Analyses of Wine Auction Data
+ 
+* Sept 2018 - May 2019: Primary School English Teacher
+  * TAPIF
+  * Duties included: Lesson planning and instructing English as a second language to French primary school students. 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* April 2017 - August 2018: Lab Manager
+  * University of Michigan, Tardif Lab
+  * Duties included: Developing data collection techniques and coding manuals, coaching incoming lab members, developing pre and post test questionnaires for word learning experiments. 
+  * Supervisor: Professor Twila Tardif 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming
+  * Python
+  * R
+  * C++
+  * Keras
+  * JsPscyh
+  * Psychopy
+* Modeling
+  * Artificial Neural Networks
+  * Machine Learning
+  * Bayesian Data Analyses 
+* Research in Cognitive Psychology 
+* Teaching
+* Public Speaking
+* Mentorship
 
 Publications
 ======
