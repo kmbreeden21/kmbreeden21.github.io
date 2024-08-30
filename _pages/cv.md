@@ -72,4 +72,17 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Women in Tech, TTEC
+  * Remote / January 2021- Present
+  * Leadership position: Head secretary responsible for meeting communications, meeting materials, planning, and organization.
+  * Planning Committee Member
+* Musical Outreach Program, Nu Chapter, Kappa Kappa Psi
+  * Ann Arbor, MI / Fall 2015- April 2018
+  * Leadership position: Committee Chair
+* University of Michigan Marching Band
+  * Ann Arbor, MI: Fall 2014, Fall 2015, Fall 2016, Fall 2017
+  * Scholarship: received fall 2017 for “excellence in horn performance and dedication to the marching band that goes beyond general requirements of the organization.”
+  * Leadership position: selected as a rank leader for fall 2017 — requires teaching skills, communication skills, and problem solving
+* University of Michigan University Band
+  * Ann Arbor, MI Winter 2015, Winter 2016, Winter 2018
+  * Award: monetary recognition of musical excellence and artistry offered to one student out of all non-music-major ensembles.
