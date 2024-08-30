@@ -8,4 +8,5 @@ date: 2024-09-05
 location: "Madision, WI"
 ---
 
+Office Hour times will be posted on canvas site. 
  
