@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Education 
 ======
 * Ph.D in Psychology, University of Wisconsin - Madison (current)
 * M.S. in Data Science in Artificial Intelligence, Northwestern University, 2021
