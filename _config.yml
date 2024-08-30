@@ -8,10 +8,10 @@
  
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Kira Breeden / Site Title"
+title                    : "Kira Breeden"
 title_separator          : "-"
 name                     : &name "Kira Breeden"
-description              : &description "I study individual difference in how language augments cognition"
+description              : &description "I study individual difference in how language augments cognition."
 url                      : https://kmbreeden21.github.io # the base hostname & protocol for your site e.g. "https://kmbreeden21.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kmbreeden21/kmbreeden21.github.io"
