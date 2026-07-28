@@ -4,6 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Kira Breeden - Academic Profile</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
     <style>
         * {
             margin: 0;
@@ -12,20 +15,20 @@
         }
 
         body {
-            font-family: 'Georgia', serif;
+            font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             line-height: 1.6;
             color: #333;
             background-color: #fafafa;
         }
 
         .container {
-            max-width: 1200px;
+            max-width: 1400px;
             margin: 0 auto;
             padding: 20px;
         }
 
         header {
-            background: linear-gradient(135deg, #86A59C, #86A59C);
+            background: linear-gradient(135deg, #78A740, #78A740);
             color: white;
             padding: 30px;
             margin-bottom: 30px;
@@ -68,7 +71,7 @@
 
         nav a {
             text-decoration: none;
-            color: #86A59C;
+            color: #78A740;
             font-weight: 500;
             padding: 10px 20px;
             border-radius: 5px;
@@ -76,7 +79,7 @@
         }
 
         nav a:hover, nav a.active {
-            background: #86A59C;
+            background: #78A740;
             color: white;
             transform: translateY(-1px);
         }
@@ -95,10 +98,10 @@
         }
 
         .section h2 {
-            color: #86A59C;
+            color: #78A740;
             font-size: 1.8em;
             margin-bottom: 20px;
-            border-bottom: 3px solid #86A59C;
+            border-bottom: 3px solid #78A740;
             padding-bottom: 10px;
         }
 
@@ -120,7 +123,7 @@
             width: 180px;
             height: 180px;
             border-radius: 50%;
-            border: 4px solid #86A59C;
+            border: 4px solid #78A740;
             margin-bottom: 20px;
             object-fit: cover;
             box-shadow: 0 4px 15px rgba(0,0,0,0.3);
@@ -137,7 +140,7 @@
             color: white;
             text-decoration: none;
             padding: 8px 16px;
-            background: #86A59C;
+            background: #78A740;
             border-radius: 15px;
             transition: all 0.3s ease;
             text-align: center;
@@ -146,9 +149,9 @@
         }
 
         .social-buttons a:hover {
-            background: #6b8a80;
+            background: #628934;
             transform: translateY(-2px);
-            box-shadow: 0 3px 10px rgba(134, 165, 156, 0.3);
+            box-shadow: 0 3px 10px rgba(120, 167, 64, 0.3);
         }
 
         .about-text {
@@ -162,33 +165,33 @@
         .research-item, .publication-item, .course-item, .poster-item {
             margin-bottom: 25px;
             padding: 20px;
-            border-left: 4px solid #86A59C;
+            border-left: 4px solid #78A740;
             background: #f8f9fa;
             border-radius: 0 8px 8px 0;
         }
 
         .research-item h3, .publication-item h3, .course-item h3, .poster-item h3 {
-            color: #86A59C;
+            color: #78A740;
             margin-bottom: 10px;
             font-size: 1.2em;
         }
 
         .publication-item {
-            border-left-color: #86A59C;
+            border-left-color: #78A740;
         }
 
         .course-item {
-            border-left-color: #86A59C;
+            border-left-color: #78A740;
         }
 
         .poster-item {
-            border-left-color: #86A59C;
+            border-left-color: #78A740;
             position: relative;
         }
 
         .poster-item .pdf-link {
             display: inline-block;
-            background: #86A59C;
+            background: #78A740;
             color: white;
             padding: 6px 12px;
             text-decoration: none;
@@ -200,25 +203,20 @@
         }
 
         .poster-item .pdf-link:hover {
-            background: #6b8a80;
+            background: #628934;
             transform: translateY(-1px);
-            box-shadow: 0 3px 10px rgba(134, 165, 156, 0.3);
-        }
-
-        .poster-item .pdf-link::before {
-            content: "📄 ";
-            margin-right: 5px;
+            box-shadow: 0 3px 10px rgba(120, 167, 64, 0.3);
         }
 
         .date {
-            color: #86A59C;
+            color: #78A740;
             font-style: italic;
             font-size: 0.9em;
             margin-bottom: 8px;
         }
 
         .instructor {
-            color: #86A59C;
+            color: #78A740;
             font-style: italic;
             font-size: 0.9em;
             margin-bottom: 8px;
@@ -231,7 +229,7 @@
         .tag {
             display: inline-block;
             background: #ecf0f1;
-            color: #86A59C;
+            color: #78A740;
             padding: 4px 10px;
             margin: 2px;
             border-radius: 15px;
@@ -245,7 +243,7 @@
         }
 
         .cv-download a {
-            background: #86A59C;
+            background: #78A740;
             color: white;
             padding: 12px 25px;
             text-decoration: none;
@@ -256,15 +254,15 @@
         }
 
         .cv-download a:hover {
-            background: #6b8a80;
+            background: #628934;
             transform: translateY(-2px);
-            box-shadow: 0 4px 15px rgba(134, 165, 156, 0.3);
+            box-shadow: 0 4px 15px rgba(120, 167, 64, 0.3);
         }
 
         footer {
             text-align: center;
             padding: 30px 0;
-            color: #86A59C;
+            color: #78A740;
             border-top: 1px solid #ecf0f1;
             margin-top: 40px;
         }
